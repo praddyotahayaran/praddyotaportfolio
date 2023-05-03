@@ -1,7 +1,7 @@
 import React from 'react'
 import './Portfolio.css'
 import port1 from '../../Assets/port1.png'
-import port2 from '../../Assets/port2.png'
+import port2 from '../../Assets/Port2.png'
 
 const Portfolio = () => {
   return (
