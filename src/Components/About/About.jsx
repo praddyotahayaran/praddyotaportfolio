@@ -36,7 +36,7 @@ const About = () => {
             <article className="about__card">
               <HiMail className="about__icon" />
               <h5>Email</h5>
-              <small>ln18bca11016@gmail.com</small>
+              <small><a href="emailto: ln18bca11016@gmail.com">Send message</a></small>
             </article>
           </div>
 
