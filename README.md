@@ -11,5 +11,4 @@ https://praddyotahayaran.github.io/praddyotaportfolio/
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Port2](https://github.com/praddyotahayaran/praddyotaportfolio/assets/94554048/388409ef-d946-460e-b5b6-201a902fdbad)
