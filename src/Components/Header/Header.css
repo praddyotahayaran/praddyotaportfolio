@@ -1,5 +1,5 @@
 header {
-    height: 100vh;
+    height: 90vh;
     padding-top: 4rem;
     overflow: hidden;
 }
@@ -43,7 +43,7 @@ header {
 .me {
     background: linear-gradient(var(--color-primary), transparent);
     width: 19rem;
-    height: 30rem;
+    height: 20rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -53,6 +53,9 @@ header {
     padding: 5rem 1.5rem 1.5rem 1.5rem;
 }
 
+.me>img {
+    height: 12rem;
+}
 
 /************** SCROLL DOWN **************/
 

@@ -14,8 +14,8 @@ const Footer = () => {
       </div>
 
       <div className="footer__social-links">
-        <span><a href="https://www.linkedin.com/in/praddyota-hayaran-245543201/"><FaLinkedinIn /></a></span>
-        <span><a href="https://github.com/praddyotahayaran"><AiFillGithub /></a></span>
+        <span><a href="https://www.linkedin.com/in/praddyota-hayaran-245543201/" target='_blank'><FaLinkedinIn /></a></span>
+        <span><a href="https://github.com/praddyotahayaran" target='_blank'><AiFillGithub /></a></span>
         
       </div>
     </footer >

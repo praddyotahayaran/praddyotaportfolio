@@ -6,6 +6,7 @@
 
 .about__me {
     width: 100%;
+    height: 22rem;
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
@@ -16,12 +17,11 @@
 .about__me-img {
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
     transition: all 400ms ease;
 }
 
 .about__me-img:hover {
-    transform: rotate(0);
+    transform: scale(1.1);
     cursor: pointer;
 }
 
@@ -44,6 +44,7 @@
     background: transparent;
     border-color: var(--color-primary-variant);
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .about__icon {

@@ -25,10 +25,10 @@ const Portfolio = () => {
           <div className="portfolio__item-img">
             <img src={port2} alt="" />
           </div>
-          <h3>AI Responsive Web App</h3>
+          <h3>Crypto Dashboard</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/praddyotahayaran/responsiveaiwebapp" target='_blank' className='btn'>Code</a>
-            <a href="https://praddyotahayaran.github.io/responsiveaiwebapp/" target='_blank' className='btn-primary'>Live Demo</a>
+            <a href="https://github.com/praddyotahayaran/cryptodash" target='_blank' className='btn'>Code</a>
+            <a href="https://praddyotahayaran.github.io/cryptodash/#/" target='_blank' className='btn-primary'>Live Demo</a>
           </div>
         </article>
       </div>

@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import Me from '../../Assets/me-about.jpg'
+import Me from '../../Assets/thumb2.png'
 import { AiOutlineUser } from 'react-icons/ai'
 import { BiBookBookmark } from 'react-icons/bi'
 import { HiMail } from 'react-icons/hi'
@@ -14,7 +14,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-img">
-            <img src={Me} alt="" />
+            <img src={Me} style={{height: "15rem"}} alt="" />
           </div>
         </div>
 
@@ -40,9 +40,9 @@ const About = () => {
             </article>
           </div>
 
-            <p>I am a creative developer and I am excited about creating stunning websites. My expertise lies in translating designs into fully functional websites, while utilizing my development skills to enhance and customize their features. My goal is to craft visually appealing, user-friendly websites that provide a seamless browsing experience.</p>
+          <p>I am a creative developer and I am excited about creating stunning websites. My expertise lies in translating designs into fully functional websites, while utilizing my development skills to enhance and customize their features. My goal is to craft visually appealing, user-friendly websites that provide a seamless browsing experience.</p>
 
-            {/* <a href="#contact" className='btn btn-primary'>Contact</a> */}
+          {/* <a href="#contact" className='btn btn-primary'>Contact</a> */}
         </div>
       </div>
     </section>
