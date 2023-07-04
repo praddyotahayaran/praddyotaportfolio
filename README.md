@@ -11,4 +11,5 @@ https://praddyotahayaran.github.io/praddyotaportfolio/
 
 ## Screenshots
 
-![Port2](https://github.com/praddyotahayaran/praddyotaportfolio/assets/94554048/388409ef-d946-460e-b5b6-201a902fdbad)
+![Screenshot](https://github.com/praddyotahayaran/praddyotaportfolio/assets/94554048/f8f26976-dc97-4a81-a317-9e175ef7a0f1)
+
